@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786337687968",
+    "project_id": "findr-74779",
+    "storage_bucket": "findr-74779.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786337687968:android:09502abeceda15e3c35cc5",
+        "android_client_info": {
+          "package_name": "com.example.campoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaKmM25JKs0PNKv9z9rIg85dzmsZN4QYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
